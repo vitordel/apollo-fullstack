@@ -25,9 +25,9 @@ Install dependencies:
 
 npm install
 
-Update the API URL in the 'src/components/ProductTable.js' file:
+Update the BACKEND API URL in the 'src/components/ProductTable.js' file:
 
-const apiUrl = 'http://your-backend-url'
+const apiUrl = 'http://localhost:your-favorite-backend-port'
 
 Run the backend:
 
