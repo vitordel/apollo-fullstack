@@ -37,7 +37,7 @@ npm start
 
 ### Backend endpoints:
 
-POST /products - create product
-GET /products - get all products
-GET /products/:id - get one product by id
-DELETE /products/:id - delete a product by id
+- POST /products - create product
+- GET /products - get all products
+- GET /products/:id - get one product by id
+- DELETE /products/:id - delete a product by id
