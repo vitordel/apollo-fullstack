@@ -10,28 +10,28 @@ This project implements an ecommerce with a backend using NestJS and a frontend 
 
 Install dependencies:
 
-npm install
+- npm install
 
 Set up the PostgreSQL database and update the database.providers.ts file with your database configuration.
 
 Run the backend:
 
-npm start
+- npm start
 
 
 ### Frontend (React)
 
 Install dependencies:
 
-npm install
+- npm install
 
 Update the BACKEND API URL in the 'src/components/ProductTable.js' file:
 
-const apiUrl = 'http://localhost:your-favorite-backend-port'
+- const apiUrl = 'http://localhost:your-favorite-backend-port'
 
 Run the backend:
 
-npm start
+- npm start
 
 ## Running the program:
 
